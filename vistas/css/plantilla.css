@@ -1,0 +1,119 @@
+/*=============================================
+REDES SOCIALES
+=============================================*/
+
+.redSocial {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+}
+
+/*FACEBOOK*/
+
+.facebookBlanco {
+  color: white;
+  background: black;
+}
+
+.facebookNegro {
+  color: black;
+}
+
+.facebookColor {
+  color: white;
+  background: #46639f;
+}
+/*LINKEDIN*/
+
+.linkedinColor {
+  color: white;
+  background: #0a66c2;
+}
+
+.linkedinBlanco {
+  color: white;
+  background: black;
+}
+
+.linkedinNegro {
+  color: black;
+}
+
+/*YOUTUBE*/
+
+.youtubeColor {
+  color: white;
+  background: #d6513e;
+}
+
+.youtubeBlanco {
+  color: white;
+  background: black;
+}
+
+.youtubeNegro {
+  color: black;
+}
+
+/*INSTAGRAM*/
+
+.instagramColor {
+  color: white;
+  background: linear-gradient(45deg, #fca925, #ee1d5f, #6350a2);
+}
+
+.instagramBlanco {
+  color: white;
+  background: black;
+}
+
+.instagramNegro {
+  color: black;
+}
+
+/*tiktok*/
+
+.tiktokColor {
+  color: white;
+  background: black;
+}
+
+.tiktokBlanco {
+  color: white;
+  background: black;
+}
+
+.tiktokNegro {
+  color: black;
+}
+/*WHATSAPP*/
+
+.whatsappColor {
+  color: white;
+  background: #32f269;
+}
+
+.whatsappBlanco {
+  color: white;
+  background: black;
+}
+
+.whatsappNegro {
+  color: black;
+}
+/*ENVELOPE*/
+
+.envelopeColor {
+  color: white;
+  background: black;
+}
+
+.envelopeBlanco {
+  color: white;
+  background: black;
+}
+
+.envelopeNegro {
+  color: black;
+}
